@@ -6,4 +6,5 @@ See how to add it to your widgets [here](https://github.com/MonsieurDupont/Drag-
 ## Links:
 
 - [Marketplace]()
+- [Wiki](https://github.com/MonsieurDupont/Drag-drop-and-resize-widget/wiki)
 - [Demo]()
