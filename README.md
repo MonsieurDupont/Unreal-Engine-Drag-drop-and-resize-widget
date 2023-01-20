@@ -1,0 +1,1 @@
+# Drag-drop-and-resize-widget
