@@ -6,7 +6,7 @@ A simple and easy to implement drag, drop and resize asset to use in your projec
  - Drag and drop widget
  - Resize widget
  - Snap to edges and corners (like in Windows)
- - 
+ 
 See how to add it to your widgets [here](https://github.com/MonsieurDupont/Drag-drop-and-resize-widget/wiki/Implementation).
 
 ## Links:
