@@ -1,5 +1,7 @@
 # Drag-drop-and-resize-widget
 
+![](https://i.ibb.co/VxJ9mkC/featured.png)
+
 A simple and easy to implement drag, drop and resize asset to use in your projects.
 
 **Features:**
